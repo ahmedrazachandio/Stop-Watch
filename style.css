@@ -1,0 +1,41 @@
+body {
+    background-color: Black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.main{
+    background-color: blueviolet;
+    width :40%;
+    height: 300px;
+    border-radius: 20%;
+    align-items: center;
+    padding-top: 90px;
+    justify-content: center;
+    display: center;
+    
+}
+
+h1 {
+    background-color: white;
+    color:black;
+    width: 300px;
+    display: inline-block;
+}
+
+.container {
+    /* width: 500px; */
+    display: flex;
+    justify-content: center;
+    /* margin: 100px; */
+}
+
+h2 {
+    color:  black;
+    background-color: white;
+    text-align: center;
+    margin: 20px;
+    width: 100px;
+    
+}
